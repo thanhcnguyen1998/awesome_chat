@@ -1,0 +1,27 @@
+{
+  "name": "awesome_chat",
+  "version": "1.0.0",
+  "description": "Learning NodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "babel-node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhcnguyen1998/awesome_chat.git"
+  },
+  "author": "smokerDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhcnguyen1998/awesome_chat/issues"
+  },
+  "homepage": "https://github.com/thanhcnguyen1998/awesome_chat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
